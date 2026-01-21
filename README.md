@@ -1,4 +1,4 @@
-This repository showcases my verification work for an HDLC controller project.
+This repository showcases my verification work for an HDLC controller project. This is basically a class project for DDS2 course,2025, NTNU. 
 Focus: SystemVerilog Assertions (SVA) and test-program based checking.
 
 ## What’s inside
