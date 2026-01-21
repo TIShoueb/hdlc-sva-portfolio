@@ -24,9 +24,3 @@ Expanded verification scope to cover additional requirements such as TX output b
 - SystemVerilog + SVA
 - Questa/ModelSim flow using provided scripts (`compile.sh`, `simulate.sh`) (course setup) :contentReference[oaicite:8]{index=8}
 
-## How to run (if you have the full RTL environment)
-> Note: some courses provide the RTL/framework separately. If you have the full project directory (RTL + TB) available, you can run the simulation using the scripts.
-
-```bash
-cd tb
-./simulate.sh
