@@ -1,0 +1,8 @@
+work/
+**/work/
+*.wlf
+wlft*
+transcript
+coverage_rep.txt
+.DS_Store
+Thumbs.db
